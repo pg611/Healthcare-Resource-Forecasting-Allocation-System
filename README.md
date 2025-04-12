@@ -1,7 +1,7 @@
 # Healthcare-Resource-Forecasting-Allocation-System
-![image](![Screenshot 2024-12-14 140849](https://github.com/user-attachments/assets/b75b83a4-204c-4105-867f-7b697aa9af0a)
-)
-![image](https://www.bing.com/images/search?view=detailV2&ccid=2OlR0sGr&id=55F2C87BF14A2678826AC19342AE93D61498787F&thid=OIP.2OlR0sGr9nFUII1jo1NRAQHaE8&mediaurl=https%3a%2f%2fsolvedby.ai%2fwp-content%2fuploads%2f2023%2f03%2fshutterstock_2162474137-1024x683.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.d8e951d2c1abf67154208d63a3535101%3frik%3df3iYFNaTrkKTwQ%26pid%3dImgRaw%26r%3d0&exph=683&expw=1024&q=healtchcare+resource+allocation&simid=608033783840583152&FORM=IRPRST&ck=15B83A5980D256679D44A6661BA44FB0&selectedIndex=32&itb=0)
+![Screenshot 2024-12-14 140849](https://github.com/user-attachments/assets/b75b83a4-204c-4105-867f-7b697aa9af0a)
+
+
 A data-driven project designed to predict hospital resource demand and optimize allocation strategies using machine learning and visualization tools. The system aims to help healthcare administrators make informed decisions to prevent both resource shortages and over-preparation.
 
 # Problem Statement
